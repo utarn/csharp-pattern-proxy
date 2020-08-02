@@ -1,0 +1,13 @@
+C:\projects\pattern-proxy\bin\Debug\netcoreapp3.1\pattern-proxy.exe
+C:\projects\pattern-proxy\bin\Debug\netcoreapp3.1\pattern-proxy.deps.json
+C:\projects\pattern-proxy\bin\Debug\netcoreapp3.1\pattern-proxy.runtimeconfig.json
+C:\projects\pattern-proxy\bin\Debug\netcoreapp3.1\pattern-proxy.runtimeconfig.dev.json
+C:\projects\pattern-proxy\bin\Debug\netcoreapp3.1\pattern-proxy.dll
+C:\projects\pattern-proxy\bin\Debug\netcoreapp3.1\pattern-proxy.pdb
+C:\projects\pattern-proxy\obj\Debug\netcoreapp3.1\pattern-proxy.csprojAssemblyReference.cache
+C:\projects\pattern-proxy\obj\Debug\netcoreapp3.1\pattern-proxy.AssemblyInfoInputs.cache
+C:\projects\pattern-proxy\obj\Debug\netcoreapp3.1\pattern-proxy.AssemblyInfo.cs
+C:\projects\pattern-proxy\obj\Debug\netcoreapp3.1\pattern-proxy.csproj.CoreCompileInputs.cache
+C:\projects\pattern-proxy\obj\Debug\netcoreapp3.1\pattern-proxy.dll
+C:\projects\pattern-proxy\obj\Debug\netcoreapp3.1\pattern-proxy.pdb
+C:\projects\pattern-proxy\obj\Debug\netcoreapp3.1\pattern-proxy.genruntimeconfig.cache
